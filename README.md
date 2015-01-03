@@ -1,4 +1,4 @@
-stm32_zl27arm
-=============
+stm32_template
+==============
 
-Przykłady do płytki ZL27ARM
+Szkielet dla STM32F10x fgdfgdfg
